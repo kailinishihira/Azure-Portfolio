@@ -1,0 +1,97 @@
+﻿body {
+    color: #454647;
+    font-family: 'Muli', sans-serif;
+}
+
+.navbar {
+    background-color: #ffffff;    
+    letter-spacing: 3px;
+}
+
+#index {
+    background-image: url("https://images.unsplash.com/photo-1489537235181-fc05daed5805?auto=format&fit=crop&w=1951&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    opacity: 0.8;
+}
+
+.index-text {
+    padding-top: 20%;
+    letter-spacing: 3px;    
+}
+
+#kaili-pic {
+    width: 25%;
+    opacity: 0.8;
+    float: left;   
+}
+
+.kaili-photo {
+    text-align: center;
+}
+
+.about-header, .projects-header {
+    text-align: center;
+    letter-spacing: 5px;
+    margin-top: 5%;
+}
+
+.about {
+    margin-top: 5%;
+}
+
+.about-text {
+    padding-left: 30%;   
+    min-height: 100vh;
+    letter-spacing: 2px;
+}
+
+.projects-subheader {
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.card {
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    letter-spacing: 2px;
+}
+
+.card:last-of-type {
+    margin-bottom: 10%;
+}
+
+footer {
+    text-align: center;
+}
+
+.fa {
+    margin: 5px 10px 15px;
+}
+
+
+@media screen and (max-device-width: 767px) {
+    h1 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    h4 {
+        font-size: 16px;
+    }
+
+    h5 {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+}
+

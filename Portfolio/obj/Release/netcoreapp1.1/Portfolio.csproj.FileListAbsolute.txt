@@ -1,0 +1,11 @@
+C:\Users\Kaili\Desktop\Portfolio-2\Portfolio\bin\Release\netcoreapp1.1\Portfolio.deps.json
+C:\Users\Kaili\Desktop\Portfolio-2\Portfolio\bin\Release\netcoreapp1.1\Portfolio.runtimeconfig.json
+C:\Users\Kaili\Desktop\Portfolio-2\Portfolio\bin\Release\netcoreapp1.1\Portfolio.runtimeconfig.dev.json
+C:\Users\Kaili\Desktop\Portfolio-2\Portfolio\bin\Release\netcoreapp1.1\Portfolio.dll
+C:\Users\Kaili\Desktop\Portfolio-2\Portfolio\bin\Release\netcoreapp1.1\Portfolio.pdb
+C:\Users\Kaili\Desktop\Portfolio-2\Portfolio\obj\Release\netcoreapp1.1\Portfolio.csprojResolveAssemblyReference.cache
+C:\Users\Kaili\Desktop\Portfolio-2\Portfolio\obj\Release\netcoreapp1.1\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Kaili\Desktop\Portfolio-2\Portfolio\obj\Release\netcoreapp1.1\Portfolio.AssemblyInfoInputs.cache
+C:\Users\Kaili\Desktop\Portfolio-2\Portfolio\obj\Release\netcoreapp1.1\Portfolio.AssemblyInfo.cs
+C:\Users\Kaili\Desktop\Portfolio-2\Portfolio\obj\Release\netcoreapp1.1\Portfolio.dll
+C:\Users\Kaili\Desktop\Portfolio-2\Portfolio\obj\Release\netcoreapp1.1\Portfolio.pdb
