@@ -10254,11 +10254,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kaili\\Desktop\\Portfolio-2\\Portfolio\\Portfolio.csproj",
+      "projectUniqueName": "C:\\Users\\Kaili\\Desktop\\GoogleAnalyticsPractice\\Portfolio\\Portfolio.csproj",
       "projectName": "Portfolio",
-      "projectPath": "C:\\Users\\Kaili\\Desktop\\Portfolio-2\\Portfolio\\Portfolio.csproj",
+      "projectPath": "C:\\Users\\Kaili\\Desktop\\GoogleAnalyticsPractice\\Portfolio\\Portfolio.csproj",
       "packagesPath": "C:\\Users\\Kaili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kaili\\Desktop\\Portfolio-2\\Portfolio\\obj\\",
+      "outputPath": "C:\\Users\\Kaili\\Desktop\\GoogleAnalyticsPractice\\Portfolio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kaili\\AppData\\Roaming\\NuGet\\NuGet.Config",

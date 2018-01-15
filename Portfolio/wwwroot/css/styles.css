@@ -23,9 +23,8 @@
 }
 
 #kaili-pic {
-    width: 25%;
-    opacity: 0.8;
-    float: left;   
+    width: 30%;
+    opacity: 0.9;
 }
 
 .kaili-photo {
@@ -40,11 +39,11 @@
 
 .about {
     margin-top: 5%;
+    min-height: 100vh;
 }
 
 .about-text {
-    padding-left: 30%;   
-    min-height: 100vh;
+    padding-right: 50px;   
     letter-spacing: 2px;
 }
 
@@ -92,6 +91,11 @@ footer {
 
     p {
         font-size: 12px;
+    }
+
+    .card {
+        margin-left: 0;
+        margin-right: 0;
     }
 }
 
