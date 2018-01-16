@@ -6,10 +6,16 @@
 .navbar {
     background-color: #ffffff;    
     letter-spacing: 3px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.navbar-toggler {
+    border: none;
 }
 
 #index {
-    background-image: url("https://images.unsplash.com/photo-1489537235181-fc05daed5805?auto=format&fit=crop&w=1951&q=80");
+    background-image: url("https://images.unsplash.com/photo-1462524500090-89443873e2b4?auto=format&fit=crop&w=1500&q=80");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -17,33 +23,33 @@
     opacity: 0.8;
 }
 
-.index-text {
-    padding-top: 20%;
+.index-text {    
+    padding-top: 15%;
     letter-spacing: 3px;    
 }
 
 #kaili-pic {
-    width: 30%;
+    width: 40%;
     opacity: 0.9;
-}
-
-.kaili-photo {
-    text-align: center;
+    float: right;
+    margin: 4px;
 }
 
 .about-header, .projects-header {
+    color: #b87e7e;
+    font-size: 60px;
+    font-weight: bold;
     text-align: center;
-    letter-spacing: 5px;
-    margin-top: 5%;
+    letter-spacing: 20px;
+    margin-top: 10%;
 }
 
 .about {
-    margin-top: 5%;
+    margin-top: 10%;
     min-height: 100vh;
 }
 
-.about-text {
-    padding-right: 50px;   
+.about-text {     
     letter-spacing: 2px;
 }
 
@@ -71,13 +77,35 @@ footer {
     margin: 5px 10px 15px;
 }
 
-
 @media screen and (max-device-width: 767px) {
+    .index-text {
+        padding-top: 20%;
+    }
+
+    .about-header, .projects-header {
+        font-size: 24px;
+        letter-spacing: 15px;
+    }
+
+   .about-text {
+        text-align: justify;
+    } 
+
+    .kaili-photo {
+        text-align: center;
+    }
+
+    #kaili-pic {
+        width: 95%;
+        opacity: 0.9;
+        float: none;
+    }  
+
     h1 {
         font-size: 20px;
     }
 
-    h3 {
+    h2 {
         font-size: 18px;
     }
 
@@ -96,6 +124,6 @@ footer {
     .card {
         margin-left: 0;
         margin-right: 0;
-    }
+    }  
 }
 
