@@ -4,7 +4,7 @@
 }
 
 .navbar {
-    background-color: #ffffff;    
+    background-color: #ffffff;
     letter-spacing: 3px;
     margin-top: 2%;
     margin-bottom: 2%;
@@ -23,15 +23,18 @@
     opacity: 0.8;
 }
 
-.index-text {    
+.index-text {
     padding-top: 15%;
-    letter-spacing: 3px;    
+    letter-spacing: 3px;
+}
+
+.kaili-photo {
+    text-align: center;
 }
 
 #kaili-pic {
     width: 40%;
-    opacity: 0.9;
-    float: right;
+    opacity: 0.9;    
     margin: 4px;
 }
 
@@ -49,8 +52,9 @@
     min-height: 100vh;
 }
 
-.about-text {     
+.about-text {
     letter-spacing: 2px;
+    text-align: left;
 }
 
 .projects-subheader {
@@ -65,9 +69,9 @@
     letter-spacing: 2px;
 }
 
-.card:last-of-type {
-    margin-bottom: 10%;
-}
+    .card:last-of-type {
+        margin-bottom: 10%;
+    }
 
 footer {
     text-align: center;
@@ -87,9 +91,9 @@ footer {
         letter-spacing: 15px;
     }
 
-   .about-text {
+    .about-text {
         text-align: justify;
-    } 
+    }
 
     .kaili-photo {
         text-align: center;
@@ -99,7 +103,7 @@ footer {
         width: 95%;
         opacity: 0.9;
         float: none;
-    }  
+    }
 
     h1 {
         font-size: 20px;
@@ -124,6 +128,5 @@ footer {
     .card {
         margin-left: 0;
         margin-right: 0;
-    }  
+    }
 }
-
